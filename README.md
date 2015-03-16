@@ -4,6 +4,19 @@ Its designed for those who want an upload solution that can be implemented out o
 
 This script could be integrated into a form without a conflict, as it does only use pure javascript/jQuery to upload binary files.
 
+###Features###
+
+* Fully customizable progress bar is included. 
+* Drag and drop files straight from desktop.
+* Automatically retry uploading the failed piece.
+* Write your own custom validator.
+* Delete what you don't need.
+* Mobile Friendly. Work beautifully for:
+		* iOS
+		* Android
+
+* and many more.
+
 
 ###Setup###
 
